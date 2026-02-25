@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-ESP32-S3-Touch-LCD-4.3 集成了 4.3 英寸电容触摸屏和音频模块，支持小智 AI 语音交互和 LVGL 图形界面。它集显示、触摸和语音功能于一体，助您轻松打造智能人机交互终端。
+ESP32-S3-Touch-LCD-4.3 集成大容量 Flash 和 PSRAM，板载 4.3 英寸宽电容触摸LCD屏，可流畅运行 LVGL 等 GUI 界面程序；结合多种外设接口(如：CAN、I2C和RS485等接口)，快速开发 ESP32-S3 的 HMI 等应用。多种功能与接口满足在物联网 (IoT)、移动设备、智能家居等应用场景的功耗需求。
 
 - [购买链接](https://www.waveshare.net/shop/ESP32-S3-Touch-LCD-4.3.htm)
 - [产品文档](https://docs.waveshare.net/ESP32-S3-Touch-LCD-4.3/)

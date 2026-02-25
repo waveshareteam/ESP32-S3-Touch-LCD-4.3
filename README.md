@@ -2,7 +2,9 @@
 
 [中文](README_ZH.md)
 
-ESP32-S3-Touch-LCD-4.3C integrates a 4.3-inch capacitive touch screen and audio module, supporting Xiaozhi AI voice interaction and LVGL graphical interface. It combines display, touch and voice functions, enabling you to easily create an intelligent human-computer interaction terminal.
+The ESP32-S3-Touch-LCD-4.3 integrates large-capacity Flash and PSRAM, and has an on-board 4.3-inch wide capacitive touch LCD screen, which can smoothly run GUI interface programs such as LVGL; 
+it combines multiple peripheral interfaces (such as CAN, I2C and RS485 interfaces) to quickly develop HMI and other applications for the ESP32-S3. 
+A variety of functions and interfaces meet the power consumption needs of application scenarios such as the Internet of Things (IoT), mobile devices, and smart homes.
 
 - [Purchase Link](https://www.waveshare.com/esp32-s3-touch-lcd-4.3c.htm)
 - [Documentation](https://docs.waveshare.com/ESP32-S3-Touch-LCD-4.3C)
