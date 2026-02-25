@@ -1,4 +1,4 @@
-# Waveshare ESP32-S3-Touch-LCD-4.3C Product Engineering Sample Program
+# Waveshare ESP32-S3-Touch-LCD-4.3 Product Engineering Sample Program
 
 [中文](README_ZH.md)
 
