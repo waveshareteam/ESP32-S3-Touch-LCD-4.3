@@ -7,6 +7,7 @@
 #include "waveshare_rgb_lcd_port.h"
 
 static const char *TAG = "example";
+#include "esp_check.h"
 
 static esp_err_t i2c_master_init(void)
 {
