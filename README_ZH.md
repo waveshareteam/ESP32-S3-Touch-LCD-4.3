@@ -11,6 +11,10 @@ ESP32-S3-Touch-LCD-4.3 集成大容量 Flash 和 PSRAM，板载 4.3 英寸宽电
 
 ---
 
+## 快速开始
+
+综合固件及烧录步骤见 [firmware/](firmware/)。
+
 ## 🔧 配置
 
 您可以在产品 Wiki 页面上找到详细的配置信息。

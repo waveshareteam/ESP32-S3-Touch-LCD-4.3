@@ -13,6 +13,10 @@ A variety of functions and interfaces meet the power consumption needs of applic
 
 ---
 
+## Quick Start
+
+For integrated firmware and flashing instructions, see [firmware/](firmware/).
+
 ## 🔧 Configuration
 
 You can find detailed configuration information on the product wiki page
